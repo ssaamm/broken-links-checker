@@ -1,3 +1,3 @@
-name = "github_help"
-allowed_domains = ["help.github.com", ]
-start_urls = ["https://help.github.com", ]
+name = "samueltaylor_org"
+allowed_domains = ["samueltaylor.org", ]
+start_urls = ["http://www.samueltaylor.org", ]
